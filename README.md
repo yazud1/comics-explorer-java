@@ -10,7 +10,7 @@ The application provides both **guest and authenticated modes**. Logged-in users
 
 ## Features
 
-### 🔍 Search
+###  Search
 - Search comics by title
 - Search characters by name
 - Combined search (titles and characters)
@@ -20,14 +20,14 @@ The application provides both **guest and authenticated modes**. Logged-in users
   - Publication dates
   - Related characters and comics
 
-### ⭐ Recommendations
+###  Recommendations
 - General recommendations (recent comics, classics, popular titles)
 - Personalized recommendations for logged-in users:
   - Favorite decades
   - Ongoing series
   - Reading habits
 
-### 📚 Collection Management
+###  Collection Management
 - Add comics to favorites
 - Add comics to a purchase list
 - Personal library with reading progress tracking
